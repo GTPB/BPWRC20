@@ -6,8 +6,8 @@ schemadotorg:
   "@type": CreativeWork
   "genre": TrainingMaterial
   isPartOf:
-      url: "https://gtpb.github.io/Web_course_template/"
-      name: "COURSE_SHORT - COURSE_EXTENDED_NAME"
+      url: "https://gtpb.github.io/BPWRC20/"
+      name: "BPWRC20 - Best Practices for Writing Reproducible Code"
 ---
 
 Page Contents with markdown.
